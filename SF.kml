@@ -1,0 +1,2182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area328_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf2657d1</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area328_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area328</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area328_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area328">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf4677f1</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Seacliff</name>
+		<description>Seacliff (San Francisco)</description>
+		<styleUrl>#area328_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.5034376453,37.7826790023,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4857625576,37.7906636377,0 -122.4873309681,37.7895942668,0 -122.4894697097,37.7895942668,0 -122.4931055704,37.7878832736,0 -122.4942462326,37.7881684391,0 -122.4970978881,37.7878832736,0 -122.4984524245,37.7890239358,0 -122.5002347091,37.7891665185,0 -122.5033715301,37.7886674788,0 -122.5052251062,37.7884536047,0 -122.507221265,37.7871703597,0 -122.5080054703,37.7861009889,0 -122.5092174239,37.785744532,0 -122.5100016291,37.7850316181,0 -122.510714543,37.7846038698,0 -122.5112135827,37.7848890353,0 -122.5119264966,37.7838909559,0 -122.5127107018,37.7834632076,0 -122.5132810329,37.7828928765,0 -122.5139939468,37.7813957574,0 -122.5143504037,37.7801125124,0 -122.5144929865,37.7792570158,0 -122.5142791123,37.7777598966,0 -122.5132097415,37.7769044,0 -122.5132097415,37.774694367,0 -122.5089322583,37.7751221153,0 -122.5093324809,37.7807266132,0 -122.4934567173,37.782268504,0 -122.4935709315,37.7835819664,0 -122.4871883853,37.7836057904,0 -122.4872748261,37.7874666645,0 -122.4837860039,37.7876671715,0 -122.4836914095,37.7898066363,0 -122.4857625576,37.7906636377,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area321">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf463112</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area321_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf665132</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area321_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area321</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area321_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outer Richmond</name>
+		<description>Outer Richmond (San Francisco)</description>
+		<styleUrl>#area321_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4936817695,37.7794966916,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4776406863,37.7729187659,0 -122.4787230951,37.7878078891,0 -122.4837860039,37.7876671715,0 -122.4872748261,37.7874666645,0 -122.4871883853,37.7836057904,0 -122.4935709315,37.7835819664,0 -122.4934567173,37.782268504,0 -122.5093324809,37.7807266132,0 -122.5089322583,37.7751221153,0 -122.5132204352,37.7746743163,0 -122.5131803338,37.771185494,0 -122.4776406863,37.7729187659,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area312_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf9ecbc3</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area312_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area312</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area312_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area312">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfbeebe3</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Inner Richmond</name>
+		<description>Inner Richmond (San Francisco)</description>
+		<styleUrl>#area312_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4626885085,37.781230641,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4787230951,37.7878078891,0 -122.4776406863,37.7729187659,0 -122.4624271044,37.7735603884,0 -122.4581496212,37.7742020109,0 -122.4545850518,37.774772342,0 -122.4461625871,37.7757359174,0 -122.4473133304,37.7822579376,0 -122.4530620363,37.7815713219,0 -122.4587484688,37.7814737323,0 -122.4591049258,37.7868205863,0 -122.4633111176,37.7868205863,0 -122.4634298236,37.7895425161,0 -122.4677128533,37.7884574819,0 -122.4717674548,37.7881719466,0 -122.4787230951,37.7878078891,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area326">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf3103f9</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area326_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf5123ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area326_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area326</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area326_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Presidio Heights</name>
+		<description>Presidio Heights (San Francisco)</description>
+		<styleUrl>#area326_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4550337034,37.7873355502,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4479766523,37.7931973681,0 -122.4492901147,37.792169441,0 -122.4634298236,37.7895425161,0 -122.4633111176,37.7868205863,0 -122.4591049258,37.7868205863,0 -122.4587484688,37.7814737323,0 -122.4530620363,37.7815713219,0 -122.4473133304,37.7822579376,0 -122.4471992642,37.7851808844,0 -122.4467002245,37.7871770433,0 -122.4479766523,37.7931973681,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<StyleMap id="area314_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area314</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area314_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area314">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf56d66e</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area314_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf36b64e</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Marina</name>
+		<description>Marina (San Francisco)</description>
+		<styleUrl>#area314_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.436709632,37.8028189588,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.42551688,37.8072273002,0 -122.4261023605,37.8081255717,0 -122.4261424619,37.8085265858,0 -122.4263830703,37.8090880054,0 -122.4263830703,37.8096494251,0 -122.4259820563,37.810130642,0 -122.4255810422,37.8103712504,0 -122.4248592169,37.8104113518,0 -122.4244181015,37.8103712504,0 -122.4240571888,37.8104514532,0 -122.423776479,37.8108925687,0 -122.4242175945,37.8110128729,0 -122.4252201296,37.8109326701,0 -122.4263028675,37.810531656,0 -122.4268241858,37.8097296279,0 -122.42694449,37.8086869914,0 -122.4280673294,37.8091281068,0 -122.4281074308,37.8087270928,0 -122.4275460111,37.8085666872,0 -122.4273455041,37.8083661801,0 -122.4293906757,37.8086869914,0 -122.4298317912,37.808847397,0 -122.4298317912,37.8093286139,0 -122.4314759488,37.8093286139,0 -122.4320373685,37.8089275998,0 -122.4325185853,37.8086869914,0 -122.4323180783,37.8061606029,0 -122.4327190923,37.8057595888,0 -122.433481019,37.805879893,0 -122.4342028443,37.8070027324,0 -122.4352454809,37.8070027324,0 -122.4357266977,37.8077646591,0 -122.4420032535,37.8070686738,0 -122.4421745747,37.8075826373,0 -122.4400175481,37.8079651661,0 -122.4397769396,37.8087671942,0 -122.4429850521,37.8084062816,0 -122.4494842788,37.8074113161,0 -122.4474055817,37.7946250447,0 -122.4236962762,37.7976190036,0 -122.42551688,37.8072273002,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area323_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfbb5a6a</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area323_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area323</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area323_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area323">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf9b3a4a</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Pacific Heights</name>
+		<description>Pacific Heights (San Francisco)</description>
+		<styleUrl>#area323_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4352206213,37.7923980234,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4474055817,37.7946250447,0 -122.4479766523,37.7931973681,0 -122.4467002245,37.7871770433,0 -122.4222521243,37.7903829557,0 -122.4232852368,37.7958334885,0 -122.4236962762,37.7976190036,0 -122.4474055817,37.7946250447,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area333_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfcd3ddb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area333_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area333</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area333_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area333">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfed5dfb</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Western Addition</name>
+		<description>Western Addition (San Francisco)</description>
+		<styleUrl>#area333_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4351084829,37.7797661087,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4215784207,37.7732967495,0 -122.4221197897,37.7746200959,0 -122.4242371439,37.7835256154,0 -122.4209889301,37.7839166041,0 -122.4218716623,37.7886453117,0 -122.4222521243,37.7903829557,0 -122.4467002245,37.7871770433,0 -122.4471992642,37.7851808844,0 -122.4473133304,37.7822579376,0 -122.4461625871,37.7757359174,0 -122.4380119766,37.7768487314,0 -122.4367187062,37.7702620757,0 -122.4358645463,37.7698680793,0 -122.4357562725,37.7691492617,0 -122.4260296767,37.7697778512,0 -122.4228367965,37.7723361649,0 -122.4215784207,37.7732967495,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<StyleMap id="area327_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area327</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area327_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area327">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf4e054c</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area327_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf6e256c</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Russian Hill</name>
+		<description>Russian Hill (San Francisco)</description>
+		<styleUrl>#area327_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4192652391,37.803174552,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4192450202,37.8069866918,0 -122.4203678596,37.8087110522,0 -122.422348869,37.8105156155,0 -122.422549376,37.8101547028,0 -122.421266131,37.8089516607,0 -122.4217072465,37.8085105452,0 -122.4242737364,37.8067861848,0 -122.42551688,37.8072273002,0 -122.4236962762,37.7976190036,0 -122.4232852368,37.7958334885,0 -122.4102021534,37.7974876715,0 -122.4064286112,37.7980440785,0 -122.4192450202,37.8069866918,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area316_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf6397c5</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area316_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area316</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area316_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area316">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf4377a5</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Nob Hill</name>
+		<description>Nob Hill (San Francisco)</description>
+		<styleUrl>#area316_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4160064593,37.7930664916,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4086381986,37.7902092665,0 -122.4102021534,37.7974876715,0 -122.4232852368,37.7958334885,0 -122.4222521243,37.7903829557,0 -122.4218716623,37.7886453117,0 -122.4086381986,37.7902092665,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area58_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf7adbab</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area58_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area58</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area58_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area58">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf9afbcb</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Chinatown</name>
+		<description>Chinatown (San Francisco)</description>
+		<styleUrl>#area58_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4070358968,37.7941411253,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4102021534,37.7974876715,0 -122.4086381986,37.7902092665,0 -122.4069599548,37.7903333302,0 -122.4038696402,37.7906942428,0 -122.4053448707,37.7980568608,0 -122.4064286112,37.7980440785,0 -122.4102021534,37.7974876715,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area318">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf0a8303</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area318_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf2aa323</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area318_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area318</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area318_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>North Beach</name>
+		<description>North Beach (San Francisco)</description>
+		<styleUrl>#area318_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4091549852,37.805021723,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4191648174,37.8119993675,0 -122.4196861357,37.811758759,0 -122.4194455273,37.8115181506,0 -122.4200871497,37.811758759,0 -122.4205282652,37.8114780492,0 -122.4177211668,37.8094328775,0 -122.4163577191,37.808791255,0 -122.4164780233,37.8086709508,0 -122.4171998486,37.8086709508,0 -122.417440457,37.8090719649,0 -122.4195257301,37.8100343986,0 -122.4194856287,37.8094328775,0 -122.4187638034,37.8090318635,0 -122.4182424851,37.8088714579,0 -122.4189643104,37.808791255,0 -122.4203678596,37.8087110522,0 -122.4192450202,37.8069866918,0 -122.4064286112,37.7980440785,0 -122.4053448707,37.7980568608,0 -122.3962428543,37.7990065122,0 -122.3943019463,37.8002897572,0 -122.3957455968,37.8015730021,0 -122.3977907685,37.8005303656,0 -122.3979511741,37.8006907712,0 -122.3959862053,37.8019740162,0 -122.397149146,37.8031770583,0 -122.3992745205,37.8021745232,0 -122.3994349261,37.8023349288,0 -122.397349653,37.8035780724,0 -122.3993146219,37.8057034469,0 -122.4012795907,37.8046207089,0 -122.402001416,37.8051019258,0 -122.4007582725,37.806906489,0 -122.4014800978,37.8073877059,0 -122.4027232413,37.8063049679,0 -122.4032445596,37.8065455764,0 -122.4021217203,37.8079892269,0 -122.4026831399,37.8083501396,0 -122.4041668919,37.806705982,0 -122.4046882102,37.806906489,0 -122.4038059793,37.8088313564,0 -122.4044476017,37.8090318635,0 -122.4052095284,37.8073075031,0 -122.4057308467,37.8074679087,0 -122.4058511509,37.8101547028,0 -122.4067734832,37.8101547028,0 -122.4066932804,37.808390241,0 -122.4074151057,37.8085105452,0 -122.4084978437,37.8109968323,0 -122.4091394661,37.8105557169,0 -122.4085379451,37.808791255,0 -122.4092998718,37.8088714579,0 -122.4105831167,37.8111171365,0 -122.4111846378,37.8109567309,0 -122.4103024069,37.8091521677,0 -122.4107435223,37.8091120663,0 -122.4128688968,37.8115983534,0 -122.4138313305,37.8110369337,0 -122.4124678828,37.8097135874,0 -122.4143526488,37.8109567309,0 -122.4150744741,37.8104354127,0 -122.4139115334,37.8096333846,0 -122.4151546769,37.8097135874,0 -122.4191648174,37.8119993675,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area309">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bff35ca7</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area309_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfd33c87</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area309_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area309</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area309_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Financial District</name>
+		<description>Financial District (San Francisco)</description>
+		<styleUrl>#area309_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.3979980426,37.791661224,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.3944047061,37.7992298269,0 -122.3947881758,37.7996132966,0 -122.3962769405,37.798711015,0 -122.3962428543,37.7990065122,0 -122.4053448707,37.7980568608,0 -122.4038696402,37.7906942428,0 -122.4069599548,37.7903333302,0 -122.4056967605,37.7858444791,0 -122.401036476,37.7820774534,0 -122.3890361305,37.7916416385,0 -122.390457224,37.7930491978,0 -122.3914497338,37.7945154055,0 -122.3919685457,37.7950793315,0 -122.3908632508,37.7959816131,0 -122.3914046197,37.7965906532,0 -122.3927805992,37.795959056,0 -122.3936828808,37.7970192369,0 -122.3927129281,37.7979666326,0 -122.3930963978,37.7983501023,0 -122.3947430617,37.7973801496,0 -122.3949911892,37.7976508341,0 -122.3934347534,37.798711015,0 -122.3938407801,37.7990944847,0 -122.3955325581,37.798169646,0 -122.3957806856,37.7983952164,0 -122.3944047061,37.7992298269,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area11">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfd8613e</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area11_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bff8815e</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area11_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area11_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Downtown</name>
+		<description>Downtown (San Francisco)</description>
+		<styleUrl>#area11_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4173088024,37.7818150398,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4056967605,37.7858444791,0 -122.4069599548,37.7903333302,0 -122.4086381986,37.7902092665,0 -122.4218716623,37.7886453117,0 -122.4209889301,37.7839166041,0 -122.4242371439,37.7835256154,0 -122.4221197897,37.7746200959,0 -122.4215483447,37.7732967495,0 -122.4056967605,37.7858444791,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area329_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bffb2040</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area329_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area329</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area329_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area329">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfdb0020</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>South Of Market</name>
+		<description>South Of Market (San Francisco)</description>
+		<styleUrl>#area329_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.3992973358,37.7791207285,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.3890361305,37.7916416385,0 -122.4009910646,37.7820766587,0 -122.4056967605,37.7858444791,0 -122.4215483447,37.7732967495,0 -122.4228367965,37.7723361649,0 -122.4215418176,37.7704781516,0 -122.4069052525,37.768442884,0 -122.4051012152,37.7661990907,0 -122.3826924489,37.7670999456,0 -122.3845504622,37.7674377662,0 -122.3833680901,37.7675503731,0 -122.3842126416,37.7679444971,0 -122.3853387103,37.7679444971,0 -122.384775676,37.7687327452,0 -122.3853387103,37.7699151173,0 -122.3836496073,37.7691831726,0 -122.3830302695,37.7698025104,0 -122.3860143515,37.7708722756,0 -122.3866899927,37.772617682,0 -122.3865210824,37.7728428958,0 -122.3865210824,37.7732370198,0 -122.3848319794,37.7733496267,0 -122.3814537734,37.771829434,0 -122.3821294146,37.7748135159,0 -122.3869152064,37.7746446056,0 -122.3869152064,37.7751513365,0 -122.3848882828,37.7753202468,0 -122.3850008897,37.7764463155,0 -122.3869152064,37.776390012,0 -122.3870841167,37.7771782601,0 -122.3896474981,37.7769332766,0 -122.3987846282,37.7703659643,0 -122.3990130564,37.7704230714,0 -122.3905186261,37.7769530463,0 -122.387253027,37.7783606322,0 -122.3846630691,37.7784169356,0 -122.3842689451,37.7794867008,0 -122.3842689451,37.7812321072,0 -122.3846630691,37.7828649068,0 -122.3852824068,37.7835968514,0 -122.3853950137,37.7851733475,0 -122.3874782407,37.785229651,0 -122.387253027,37.7855111681,0 -122.3842689451,37.7858489887,0 -122.3844378554,37.7877633054,0 -122.3871967236,37.787707002,0 -122.387253027,37.7880448226,0 -122.3851134965,37.7883263398,0 -122.3852824068,37.7888330707,0 -122.3870278133,37.7887204638,0 -122.3870278133,37.7890582844,0 -122.3850571931,37.7895087119,0 -122.3858454412,37.7911415114,0 -122.3879849716,37.7906347805,0 -122.3881538819,37.7909162977,0 -122.3862395652,37.7915919389,0 -122.3863521721,37.7920423663,0 -122.3886043094,37.7912541183,0 -122.3890361305,37.7916416385,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area325_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf695ec3</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area325_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area325</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area325_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area325">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf897ee3</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Potrero Hill</name>
+		<description>Potrero Hill (San Francisco)</description>
+		<styleUrl>#area325_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.3928723244,37.7582884584,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4038625397,37.7494769712,0 -122.3924162574,37.7498982158,0 -122.3804966151,37.7507156467,0 -122.3799898842,37.7531366943,0 -122.379708367,37.7542627629,0 -122.3822420215,37.7535871217,0 -122.3825798421,37.7536434252,0 -122.3830302695,37.754656887,0 -122.3830302695,37.7549947076,0 -122.3806092219,37.7552199213,0 -122.3811722563,37.7591611616,0 -122.3798209739,37.7597804994,0 -122.3798209739,37.7623704573,0 -122.3810596494,37.7623704573,0 -122.38139747,37.7631587053,0 -122.3819042009,37.7645662911,0 -122.3843815519,37.764284774,0 -122.3841563382,37.7628208847,0 -122.3844378554,37.7628771882,0 -122.3846630691,37.7636091328,0 -122.3864647789,37.7633839191,0 -122.3865773858,37.7634965259,0 -122.3857328343,37.7647352014,0 -122.3860706549,37.7655234495,0 -122.385563924,37.765973877,0 -122.3855076206,37.7664806079,0 -122.3826924489,37.7668747319,0 -122.3826924489,37.7670999456,0 -122.4051012152,37.7661990907,0 -122.4051575186,37.7631587053,0 -122.406508801,37.7607376577,0 -122.4034684156,37.7566275071,0 -122.4029616847,37.7519543222,0 -122.4038625397,37.7494769712,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area315_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bffb6dd0</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area315_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area315</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area315_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area315">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfdb4db0</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Mission</name>
+		<description>Mission (San Francisco)</description>
+		<styleUrl>#area315_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4144956807,37.7588232391,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4228367965,37.7723361649,0 -122.4260296767,37.7697778512,0 -122.4254323848,37.7566387678,0 -122.4245258995,37.7478441716,0 -122.40780378,37.7483509025,0 -122.4038625397,37.7494769712,0 -122.4029616847,37.7519543222,0 -122.4034684156,37.7566275071,0 -122.406508801,37.7607376577,0 -122.4051575186,37.7631587053,0 -122.4051012152,37.7661990907,0 -122.4069052525,37.768442884,0 -122.4215418176,37.7704781516,0 -122.4228367965,37.7723361649,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area303">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfccab01</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area303_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfeccb21</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area303_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area303</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area303_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Bayview</name>
+		<description>Bayview (San Francisco)</description>
+		<styleUrl>#area303_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.3800319189,37.7294238807,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.3804966151,37.7507156467,0 -122.3924162574,37.7498982158,0 -122.4038625397,37.7494769712,0 -122.4053633618,37.7448162643,0 -122.4083900362,37.7389685011,0 -122.4067468698,37.7352323844,0 -122.4047355558,37.7325506323,0 -122.4023986504,37.7277438461,0 -122.4022860435,37.7259421363,0 -122.4015408751,37.7240792151,0 -122.3990767479,37.7168209801,0 -122.395600838,37.7108452019,0 -122.395191811,37.7083191618,0 -122.3927514764,37.7081634498,0 -122.3912122316,37.7086460782,0 -122.3901843045,37.7081321147,0 -122.3890421632,37.7087602924,0 -122.3873041676,37.7081634498,0 -122.3860154889,37.7091029347,0 -122.3850446688,37.7092171489,0 -122.3796766049,37.7081892217,0 -122.3747653974,37.7082463288,0 -122.3740230056,37.7088173994,0 -122.3748225045,37.7096740054,0 -122.3752362835,37.7106775924,0 -122.3768285738,37.7110966161,0 -122.3783370593,37.7100909591,0 -122.3795941305,37.7106775924,0 -122.3799293495,37.7114318351,0 -122.3792589115,37.7123536874,0 -122.3761581357,37.7160410964,0 -122.3835329538,37.7203151387,0 -122.3835329538,37.7218236242,0 -122.3852090488,37.7237511335,0 -122.3852928536,37.7244215715,0 -122.3833086141,37.7225102455,0 -122.3816892493,37.7214046005,0 -122.3807959033,37.7209683548,0 -122.3797108691,37.7214823183,0 -122.379596655,37.7232526373,0 -122.378682942,37.7235381726,0 -122.3771981583,37.7236523867,0 -122.3759418029,37.7242805644,0 -122.3760560171,37.7253084916,0 -122.375142304,37.7244518856,0 -122.3761581357,37.7237511335,0 -122.3768285738,37.7224940622,0 -122.3764933548,37.7209855767,0 -122.3755715025,37.7199799197,0 -122.3738116027,37.7178848009,0 -122.3711298507,37.7180524104,0 -122.3703756079,37.7173819724,0 -122.3693699509,37.7173819724,0 -122.3680290749,37.7172143629,0 -122.3672748322,37.7162925107,0 -122.3666881989,37.7159572917,0 -122.3661015656,37.7157058774,0 -122.3643416659,37.7157896822,0 -122.3639226421,37.7157896822,0 -122.3634198136,37.7164601202,0 -122.3624141566,37.7174657772,0 -122.3632522041,37.7188904579,0 -122.3627493756,37.7196447007,0 -122.3599000141,37.7183038247,0 -122.3593133808,37.7196447007,0 -122.3631683994,37.7219912337,0 -122.3627493756,37.7224940622,0 -122.3599000141,37.7209855767,0 -122.3594809903,37.7220750385,0 -122.3650959086,37.7249244,0 -122.3650959086,37.7255110333,0 -122.3612408901,37.723583524,0 -122.3574696763,37.724589181,0 -122.3577210905,37.7253434238,0 -122.3610732806,37.7245053763,0 -122.3614923043,37.7251758143,0 -122.3574696763,37.7261814713,0 -122.356547824,37.7291984423,0 -122.357553481,37.7299526851,0 -122.3581401143,37.7301202946,0 -122.3589781618,37.7307907326,0 -122.3616599138,37.7303717088,0 -122.3620789376,37.7307907326,0 -122.3616599138,37.7320478038,0 -122.3637550326,37.7330534608,0 -122.3646768849,37.7322992181,0 -122.3652635181,37.7332210704,0 -122.3650121039,37.7345619464,0 -122.3667720036,37.7328858513,0 -122.3676100512,37.7325506323,0 -122.3686157082,37.7324668276,0 -122.3690347319,37.7322154133,0 -122.3701241937,37.7323830228,0 -122.3726383362,37.7341429226,0 -122.3748172597,37.7341429226,0 -122.3754876977,37.7348971654,0 -122.375403893,37.7357352129,0 -122.3753200882,37.7364056509,0 -122.374733455,37.7384169649,0 -122.3756553072,37.7387521839,0 -122.3745658455,37.7399254504,0 -122.3707108269,37.7400092552,0 -122.3763257453,37.7476354875,0 -122.3884774341,37.7469650495,0 -122.3907401624,37.747132659,0 -122.3925838669,37.7478869018,0 -122.3922486479,37.7483059255,0 -122.3904049434,37.7476354875,0 -122.3877231914,37.7475516828,0 -122.3863352884,37.7476944603,0 -122.3858213248,37.748322638,0 -122.3829463206,37.748138316,0 -122.3804966151,37.7507156467,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<StyleMap id="area304_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area304</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area304_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area304">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfa58237</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area304_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfc5a257</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Bernal Heights</name>
+		<description>Bernal Heights (San Francisco)</description>
+		<styleUrl>#area304_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4158201009,37.740355815,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4038625397,37.7494769712,0 -122.4078600834,37.7483509025,0 -122.4245258995,37.7478441716,0 -122.4239544196,37.7421124821,0 -122.4239802644,37.7388200227,0 -122.4250005773,37.7374032916,0 -122.4277549014,37.7352716151,0 -122.4324083801,37.7329800654,0 -122.4348294277,37.732022907,0 -122.4351109449,37.7312909624,0 -122.4282419261,37.7317976933,0 -122.4232309205,37.7312346589,0 -122.4212410289,37.7316925853,0 -122.4152358331,37.7321918173,0 -122.4067468698,37.7352323844,0 -122.4083900362,37.7389685011,0 -122.4053633618,37.7448162643,0 -122.4038625397,37.7494769712,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area308_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf653e58</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area308_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area308</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area308_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area308">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf451e38</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Excelsior</name>
+		<description>Excelsior (San Francisco)</description>
+		<styleUrl>#area308_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4185339183,37.7239286986,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4015408751,37.7240792151,0 -122.4022860435,37.7259421363,0 -122.4023986504,37.7277438461,0 -122.4047355558,37.7325506323,0 -122.4067468698,37.7352323844,0 -122.4152358331,37.7321918173,0 -122.4212410289,37.7316925853,0 -122.4232309205,37.7312346589,0 -122.4282419261,37.7317976933,0 -122.4282982295,37.7311783555,0 -122.4320152282,37.7278035943,0 -122.4407975916,37.7162579458,0 -122.4332887157,37.7126250129,0 -122.4328318592,37.7133102976,0 -122.430890219,37.7158801155,0 -122.4273495811,37.7149664024,0 -122.4145547436,37.7206076285,0 -122.4015408751,37.7240792151,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<StyleMap id="area331_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area331</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area331_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area331">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bff8c1a6</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area331_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfd8a186</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Visitacion Valley</name>
+		<description>Visitacion Valley (San Francisco)</description>
+		<styleUrl>#area331_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4117055026,37.7161147333,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4015408751,37.7240792151,0 -122.4145547436,37.7206076285,0 -122.4273495811,37.7149664024,0 -122.430890219,37.7158801155,0 -122.4328318592,37.7133102976,0 -122.4245822029,37.7101771751,0 -122.4234561343,37.7092200167,0 -122.4191207699,37.7081502515,0 -122.395191811,37.7083191618,0 -122.395600838,37.7108452019,0 -122.3990767479,37.7168209801,0 -122.4015408751,37.7240792151,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<StyleMap id="area306_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area306</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area306_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area306_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf6248ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area306">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf4228e6</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Crocker Amazon</name>
+		<description>Crocker Amazon (San Francisco)</description>
+		<styleUrl>#area306_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4373637495,37.7122040987,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4540852017,37.7082065549,0 -122.4191207699,37.7081502515,0 -122.4235687411,37.7092763202,0 -122.4245822029,37.7101771751,0 -122.4328318592,37.7133102976,0 -122.4332887157,37.7126250129,0 -122.4407975916,37.7162579458,0 -122.4460338108,37.7109654231,0 -122.4540852017,37.7082065549,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area320_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfc090ba</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area320_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area320_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area320">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfe0b0da</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Outer Mission</name>
+		<description>Outer Mission (San Francisco)</description>
+		<styleUrl>#area320_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4432467909,37.7240879073,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4282419261,37.7317976933,0 -122.4351109449,37.7312909624,0 -122.4348294277,37.732022907,0 -122.4324083801,37.7329800654,0 -122.4398319877,37.7347226566,0 -122.4417644687,37.7358712466,0 -122.4417222411,37.7343313477,0 -122.4458741606,37.7345003493,0 -122.4485399822,37.7336299877,0 -122.4485599684,37.7329300183,0 -122.4530717399,37.7329237619,0 -122.4530307856,37.7296553476,0 -122.4522891222,37.7296553476,0 -122.4523072865,37.7229017509,0 -122.44651239,37.7205004095,0 -122.4519597471,37.7140818181,0 -122.4570692836,37.7097830511,0 -122.4582516557,37.7082544129,0 -122.4540852017,37.7082065549,0 -122.4460338108,37.7109654231,0 -122.4407975916,37.7162579458,0 -122.4320152282,37.7278035943,0 -122.4282982295,37.7311783555,0 -122.4282419261,37.7317976933,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<StyleMap id="area310_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area310_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area310">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf68b4ac</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area310_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf48948c</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Glen Park</name>
+		<description>Glen Park (San Francisco)</description>
+		<styleUrl>#area310_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4321488718,37.7375462738,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4239544196,37.7421124821,0 -122.4318509761,37.7416902064,0 -122.4330755758,37.7418168891,0 -122.4355670027,37.7413523858,0 -122.4354403199,37.7399588758,0 -122.4364115541,37.7387342762,0 -122.4371294229,37.7382697729,0 -122.4392830292,37.7383120004,0 -122.4398319877,37.7347226566,0 -122.4324083801,37.7329800654,0 -122.4277549014,37.7352716151,0 -122.4250005773,37.7374032916,0 -122.4239802644,37.7388200227,0 -122.4239544196,37.7421124821,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area317">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfac663b</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area317_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfcc865b</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area317_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area317</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area317_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Noe Valley</name>
+		<description>Noe Valley (San Francisco)</description>
+		<styleUrl>#area317_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4339528681,37.7489955768,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4239544196,37.7421124821,0 -122.4245258995,37.7478441716,0 -122.4254323848,37.7566387678,0 -122.4375909118,37.7558857219,0 -122.4386496156,37.7553719406,0 -122.4387340707,37.7563009472,0 -122.4406765392,37.7560053542,0 -122.4433368764,37.7505579971,0 -122.4431679661,37.7493333974,0 -122.4438436073,37.7468841981,0 -122.443379104,37.7470531084,0 -122.4428301455,37.7467997429,0 -122.441985594,37.7471375635,0 -122.440000898,37.7474331565,0 -122.4400853531,37.7465041499,0 -122.4398319877,37.7451950951,0 -122.4356514578,37.7418591167,0 -122.4355670027,37.7413523858,0 -122.4330755758,37.7418168891,0 -122.4318509761,37.7416902064,0 -122.4239544196,37.7421124821,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area307_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfff725c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area307_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area307</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area307_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area307">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bff0523c</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Diamond Heights</name>
+		<description>Diamond Heights (San Francisco)</description>
+		<styleUrl>#area307_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4406257693,37.7410779066,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4513601155,37.7452795502,0 -122.4496187975,37.7433877549,0 -122.4461139089,37.7421631552,0 -122.4457016206,37.7410567928,0 -122.4435802544,37.7396717283,0 -122.442228972,37.7373914393,0 -122.4417644687,37.7358712466,0 -122.4398319877,37.7347226566,0 -122.4392830292,37.7383120004,0 -122.4371294229,37.7382697729,0 -122.4364115541,37.7387342762,0 -122.4354403199,37.7399588758,0 -122.4355670027,37.7413523858,0 -122.4356514578,37.7418591167,0 -122.4398319877,37.7451950951,0 -122.4400853531,37.7465041499,0 -122.440000898,37.7474331565,0 -122.441985594,37.7471375635,0 -122.4428301455,37.7467997429,0 -122.443379104,37.7470531084,0 -122.4438436073,37.7468841981,0 -122.4446459312,37.7468419705,0 -122.4460394412,37.7464196948,0 -122.4505155641,37.7458707363,0 -122.4513601155,37.7452795502,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area330">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf9a7420</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area330_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfba9440</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area330_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area330</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area330_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Twin Peaks</name>
+		<description>Twin Peaks (San Francisco)</description>
+		<styleUrl>#area330_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.448808491,37.7530916515,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4406765392,37.7560053542,0 -122.4437865789,37.7583820344,0 -122.4444347933,37.7580745053,0 -122.4461926632,37.758712871,0 -122.446250579,37.7609037528,0 -122.4470047166,37.7593444681,0 -122.4483882151,37.7588331752,0 -122.4503466538,37.7586234638,0 -122.4515290258,37.7584123259,0 -122.4527113979,37.7579478226,0 -122.453598177,37.7573566366,0 -122.4547805491,37.755329713,0 -122.4559206936,37.7518670519,0 -122.459256672,37.7518670519,0 -122.4615791886,37.7511914107,0 -122.4586232584,37.7477709771,0 -122.4589188514,37.7472642462,0 -122.4584543481,37.7466730602,0 -122.4560473763,37.7464619223,0 -122.4537248597,37.7455329157,0 -122.4513601155,37.7452795502,0 -122.4505155641,37.7458707363,0 -122.4460394412,37.7464196948,0 -122.4446459312,37.7468419705,0 -122.4438436073,37.7468841981,0 -122.4431679661,37.7493333974,0 -122.4433368764,37.7505579971,0 -122.4406765392,37.7560053542,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area305_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf2681e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area305_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area305</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area305_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area305">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf0661c9</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Castro-Upper Market</name>
+		<description>Castro-Upper Market (San Francisco)</description>
+		<styleUrl>#area305_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4356020594,37.7625748959,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4260296767,37.7697778512,0 -122.4357562725,37.7691492617,0 -122.4382225089,37.7690289574,0 -122.4400270722,37.7672243942,0 -122.4437865789,37.7652694507,0 -122.4446287084,37.7630438227,0 -122.4462528153,37.7621716172,0 -122.4462528153,37.7608482708,0 -122.4461926632,37.758712871,0 -122.4444347933,37.7580745053,0 -122.4437865789,37.7583820344,0 -122.4406765392,37.7560053542,0 -122.4387340707,37.7563009472,0 -122.4386496156,37.7553719406,0 -122.4375909118,37.7558857219,0 -122.4254323848,37.7566387678,0 -122.4260296767,37.7697778512,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area311_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf257b62</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area311_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area311</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area311_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area311">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf055b42</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Haight-Ashbury</name>
+		<description>Haight-Ashbury (San Francisco)</description>
+		<styleUrl>#area311_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4464338399,37.7676305287,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4357562725,37.7691492617,0 -122.4358645463,37.7698680793,0 -122.4367187062,37.7702620757,0 -122.4380119766,37.7768487314,0 -122.4461625871,37.7757359174,0 -122.4545850518,37.774772342,0 -122.453006991,37.76635111,0 -122.4519371895,37.7613595637,0 -122.4515290258,37.7584123259,0 -122.4503466538,37.7586234638,0 -122.4483882151,37.7588331752,0 -122.4470047166,37.7593444681,0 -122.4462528153,37.7608482708,0 -122.4462528153,37.7621716172,0 -122.4446287084,37.7630438227,0 -122.4437865789,37.7652694507,0 -122.4400270722,37.7672243942,0 -122.4382225089,37.7690289574,0 -122.4357562725,37.7691492617,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area313">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf50f784</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area313_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf30d764</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area313_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area313</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area313_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inner Sunset</name>
+		<description>Inner Sunset (San Francisco)</description>
+		<styleUrl>#area313_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4650916856,37.7573988641,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4759787915,37.7484466183,0 -122.4683524916,37.7487928844,0 -122.4661397667,37.7489111217,0 -122.4664775872,37.7527116034,0 -122.4632498586,37.7529311868,0 -122.4615791886,37.7511914107,0 -122.459256672,37.7518670519,0 -122.4559206936,37.7518670519,0 -122.4547805491,37.755329713,0 -122.453598177,37.7573566366,0 -122.4527113979,37.7579478226,0 -122.4515290258,37.7584123259,0 -122.4519371895,37.7613595637,0 -122.453006991,37.76635111,0 -122.4577787069,37.7658443791,0 -122.4589188514,37.7661399721,0 -122.4599323132,37.7660977445,0 -122.4647462567,37.7659288342,0 -122.4772456188,37.7653798757,0 -122.4759787915,37.7484466183,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area332_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf61638b</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area332_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area332</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area332_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area332">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf41436b</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>West Of Twin Peaks</name>
+		<description>West Of Twin Peaks (San Francisco)</description>
+		<styleUrl>#area332_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4557505281,37.7379164688,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4530307856,37.7296553476,0 -122.4530717399,37.7329237619,0 -122.4485599684,37.7329300183,0 -122.4485399822,37.7336299877,0 -122.4458741606,37.7345003493,0 -122.4417222411,37.7343313477,0 -122.4417644687,37.7358712466,0 -122.442228972,37.7373914393,0 -122.4435802544,37.7396717283,0 -122.4457016206,37.7410567928,0 -122.4461139089,37.7421631552,0 -122.4496187975,37.7433877549,0 -122.4513601155,37.7452795502,0 -122.4537248597,37.7455329157,0 -122.4560473763,37.7464619223,0 -122.4584543481,37.7466730602,0 -122.4589188514,37.7472642462,0 -122.458647053,37.7477794227,0 -122.4616029832,37.7511914107,0 -122.4632498586,37.7529311868,0 -122.4664775872,37.7527116034,0 -122.4661397667,37.7489111217,0 -122.4683524916,37.7487928844,0 -122.4682258088,37.7470193263,0 -122.47029496,37.746850416,0 -122.4694150845,37.7383120004,0 -122.4681060297,37.7371718559,0 -122.4710619599,37.734680429,0 -122.4713422038,37.7307194825,0 -122.4684285012,37.7294526553,0 -122.4664591543,37.727037238,0 -122.4622448423,37.7249343048,0 -122.4523072865,37.7229017509,0 -122.4522891222,37.7296553476,0 -122.4530307856,37.7296553476,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area319_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf5b960c</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area319_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area319</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area319_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area319">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf7bb62c</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Ocean View</name>
+		<description>Ocean View (San Francisco)</description>
+		<styleUrl>#area319_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4598420166,37.7194774329,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4522834918,37.7229017509,0 -122.4622448423,37.7249343048,0 -122.4664591543,37.727037238,0 -122.4684285012,37.7294526553,0 -122.4713422038,37.7307194825,0 -122.4713422038,37.7287347865,0 -122.4716800244,37.7266656354,0 -122.4725245759,37.7169279567,0 -122.4721445278,37.7165310175,0 -122.4709621557,37.7125278434,0 -122.4708945915,37.7082544129,0 -122.4597045395,37.7082353833,0 -122.4588818182,37.7084999991,0 -122.4582516557,37.7082544129,0 -122.4570692836,37.7097830511,0 -122.4519597471,37.7140818181,0 -122.44651239,37.7205004095,0 -122.4522834918,37.7229017509,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area103">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf6268ce</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area103_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf4248ae</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area103_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area103</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area103_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Lakeshore</name>
+		<description>Lakeshore (San Francisco)</description>
+		<styleUrl>#area103_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4894441076,37.7232198653,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4708945915,37.7082544129,0 -122.4709621557,37.7125278434,0 -122.4721445278,37.7165310175,0 -122.4725245759,37.7169279567,0 -122.4716800244,37.7266656354,0 -122.4713422038,37.7286672224,0 -122.4713422038,37.7307194825,0 -122.4710619599,37.734680429,0 -122.4681060297,37.7371718559,0 -122.4694150845,37.7383120004,0 -122.4704976523,37.7374083303,0 -122.4850962433,37.7361759657,0 -122.48846556,37.7364043939,0 -122.4894934871,37.7372038928,0 -122.4900074507,37.7366899292,0 -122.4892650589,37.7357762162,0 -122.496062226,37.7336331852,0 -122.5013068908,37.7352969516,0 -122.5084349053,37.7351956054,0 -122.508527806,37.734959131,0 -122.5086122612,37.7344946277,0 -122.5083588957,37.7343257174,0 -122.5085700336,37.7340723519,0 -122.5086122612,37.7337767589,0 -122.5084011233,37.7330588902,0 -122.5081055303,37.7328055247,0 -122.5079788475,37.732383249,0 -122.508232213,37.7313275596,0 -122.5076832545,37.7294695463,0 -122.5074721166,37.7293428636,0 -122.5073454339,37.7291317257,0 -122.5073454339,37.7285827673,0 -122.5075143442,37.7267078629,0 -122.5073454339,37.7259899942,0 -122.5071765236,37.7249765324,0 -122.5072609788,37.7240897533,0 -122.5069231582,37.7232452018,0 -122.5066697927,37.7227806985,0 -122.5067120203,37.7220206022,0 -122.5062897446,37.7210493679,0 -122.5060363791,37.7196980856,0 -122.5047273243,37.7146730042,0 -122.5040939107,37.7127305358,0 -122.5036716349,37.7115903912,0 -122.5033760419,37.7093945574,0 -122.5029115386,37.7081699577,0 -122.502573718,37.7081277301,0 -122.4708945915,37.7082544129,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area324_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf5f20ec</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area324_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area324</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area324_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area324">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf3f00cc</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Parkside</name>
+		<description>Parkside (San Francisco)</description>
+		<styleUrl>#area324_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4894102057,37.7412130348,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.5084349053,37.7351956054,0 -122.5013068908,37.7352969516,0 -122.496062226,37.7336331852,0 -122.4892650589,37.7357762162,0 -122.4900074507,37.7366899292,0 -122.4894934871,37.7372038928,0 -122.48846556,37.7364043939,0 -122.4850962433,37.7361759657,0 -122.4704976523,37.7374083303,0 -122.4694150845,37.7383120004,0 -122.47029496,37.746850416,0 -122.4682258088,37.7470193263,0 -122.4683524916,37.7487928844,0 -122.4759787915,37.7484466183,0 -122.4757845447,37.7465970506,0 -122.5095328223,37.7450346303,0 -122.5084349053,37.7351956054,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area313">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf50f784</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area313_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf30d764</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area313_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area313</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area313_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inner Sunset</name>
+		<description>Inner Sunset (San Francisco)</description>
+		<styleUrl>#area313_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4650916856,37.7573988641,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4759787915,37.7484466183,0 -122.4683524916,37.7487928844,0 -122.4661397667,37.7489111217,0 -122.4664775872,37.7527116034,0 -122.4632498586,37.7529311868,0 -122.4615791886,37.7511914107,0 -122.459256672,37.7518670519,0 -122.4559206936,37.7518670519,0 -122.4547805491,37.755329713,0 -122.453598177,37.7573566366,0 -122.4527113979,37.7579478226,0 -122.4515290258,37.7584123259,0 -122.4519371895,37.7613595637,0 -122.453006991,37.76635111,0 -122.4577787069,37.7658443791,0 -122.4589188514,37.7661399721,0 -122.4599323132,37.7660977445,0 -122.4647462567,37.7659288342,0 -122.4772456188,37.7653798757,0 -122.4759787915,37.7484466183,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="area322">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfd2c796</color>
+		</PolyStyle>
+	</Style>
+	<Style id="area322_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff202020</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bfb2a776</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area322_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area322</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area322_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outer Sunset</name>
+		<description>Outer Sunset (San Francisco)</description>
+		<styleUrl>#area322_rollover</styleUrl>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4938717934,37.755207253,0</coordinates>
+			</Point>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-122.4758014357,37.746571714,0 -122.4759787915,37.7484466183,0 -122.4772456188,37.7653798757,0 -122.4959524343,37.7645775518,0 -122.5101408994,37.7639441382,0 -122.5122522781,37.7636485452,0 -122.5124211884,37.7634796349,0 -122.5123367332,37.7626350834,0 -122.5119566851,37.7619172146,0 -122.5120833678,37.7604645861,0 -122.5115344093,37.7583532073,0 -122.5110276784,37.7564529665,0 -122.5114077266,37.7557773253,0 -122.5111543612,37.7548060911,0 -122.5112388163,37.7533703535,0 -122.5106476303,37.7509211542,0 -122.5098030788,37.7492742788,0 -122.5098030788,37.7483874997,0 -122.5095074857,37.7469939898,0 -122.5095328223,37.7450346303,0 -122.4758014357,37.746571714,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
